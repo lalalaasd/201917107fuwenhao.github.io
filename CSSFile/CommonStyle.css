@@ -1,0 +1,14 @@
+header{
+    background-color: #1C6DC0;
+    text-align: center;
+    color: white;
+    line-height: 44px;
+    font-size: 18px;
+}
+.second_section img{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
